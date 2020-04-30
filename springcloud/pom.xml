@@ -32,7 +32,7 @@
     <artifactId>spring-boot-starter-actuator</artifactId>
   	</dependency>
 	 
-     <!-- 开发工具：修改java代码无须重新运行 -->
+     <!-- 开发工具：====修改java代码无须重新运行 -->
 		<dependency>	   
 			<groupId>org.springframework.boot</groupId>    
 			<artifactId>spring-boot-devtools</artifactId>    
